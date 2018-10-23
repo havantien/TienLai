@@ -5,11 +5,11 @@
 		  http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd"
          version="2.5">
     <servlet>
-        <servlet-name>Money</servlet-name>
+        <servlet-name>MoneyServlet</servlet-name>
         <servlet-class>com.codegym.MoneyServlet</servlet-class>
     </servlet>
     <servlet-mapping>
-        <servlet-name>Money</servlet-name>
+        <servlet-name>MoneyServlet</servlet-name>
         <url-pattern>/display_discount</url-pattern>
     </servlet-mapping>
 

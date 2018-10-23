@@ -40,11 +40,13 @@
     <form method="post" action="/display_discount">
       <div id="data">
         <label>Product Description:</label>
-        <input type="text" name="description"/><br/>
+        <input type="text" name="Product Description"/><br/>
+
         <label>List Price:</label>
-        <input type="text" name="price"/><br/>
+        <input type="text" name="List Price"/><br/>
+
         <label>Discount Percent:</label>
-        <input type="text" name="discount_percent"/><br/>
+        <input type="text" name="discount Percent"/><br/>
       </div>
       <div id="buttons">
         <label>&nbsp;</label>
